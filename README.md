@@ -14,6 +14,8 @@ CVE-2017-15399
 
 https://bugs.chromium.org/p/chromium/issues/detail?id=776677
 
+https://chromium.googlesource.com/v8/v8.git/+/5f960dfc06a7c95af69e2b09f772b2280168469b
+
 VULNERABILITY DETAILS
 
 This is a Use After Free Vul in V8.More information please see the html file.
@@ -28,6 +30,8 @@ Operating System: [Windows 10 1703 64bit] 8G Memory
 CVE-2017-15428
 
 https://bugs.chromium.org/p/chromium/issues/detail?id=782145
+
+https://chromium.googlesource.com/v8/v8.git/+/55a98076827edac8eba775f8025df3749bcd8367
 
 VULNERABILITY DETAILS
 
@@ -48,6 +52,8 @@ In the release build,it will crash in the address 0x300000008,and please note th
 CVE-2017-XXXX(duplicate with chromium worker)
 
 https://bugs.chromium.org/p/chromium/issues/detail?id=782102
+
+https://chromium.googlesource.com/v8/v8.git/+/b60438869987952083597c2ce55a9abdba19d557
 
 VULNERABILITY DETAILS
 
